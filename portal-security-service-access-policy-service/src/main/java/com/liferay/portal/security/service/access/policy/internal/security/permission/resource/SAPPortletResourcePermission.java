@@ -12,7 +12,7 @@
  * details.
  */
 
-package com.liferay.portal.security.service.access.policy.internal.security.permission;
+package com.liferay.portal.security.service.access.policy.internal.security.permission.resource;
 
 import com.liferay.portal.kernel.model.Group;
 import com.liferay.portal.kernel.security.auth.PrincipalException;
